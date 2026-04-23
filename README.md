@@ -15,7 +15,8 @@ pip install -r requirements.txt
 ## Generar ODS
 
 ```bash
-odsgenerator 1kyu.json 1kyu.ods
+mkdir out
+odsgenerator src/1kyu.json out/1kyu.ods
 ```
 
 Recuerda de después de generar el ODS, remover manualmente el header y footer de la hoja.
