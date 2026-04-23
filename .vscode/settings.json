@@ -1,0 +1,16 @@
+{
+	"files.autoSave": "afterDelay",
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"editor.wordWrap": "wordWrapColumn",
+	"editor.wordWrapColumn": 80,
+	"cSpell.language": "es,en",
+	"cSpell.customDictionaries": {
+		"dictionary": {
+			"name": "dictionary",
+			"path": "${fileDirname}/../.cspell/dictionary.txt",
+			"addWords": true,
+			"scope": "workspace",
+		}
+	},
+}
